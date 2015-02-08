@@ -1,0 +1,5 @@
+S3method(ivpan,formula)
+S3method(summary,ivpan)
+export(hausman)
+export(ivpan)
+import(Formula)
